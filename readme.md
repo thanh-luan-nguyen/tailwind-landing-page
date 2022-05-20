@@ -1,5 +1,7 @@
 # Tailwind Manage Landing Page
 
+[live demo](https://thanh-luan-nguyen.github.io/tailwind-landing-page/)
+
 ![Alt text](/img/screen.png?raw=true)
 
 # Usage
